@@ -24,7 +24,7 @@ github_username:  cdj856
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-hydejack #minima
 plugins:
   - jekyll-feed
 
