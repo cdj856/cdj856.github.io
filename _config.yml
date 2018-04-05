@@ -24,9 +24,13 @@ github_username:  cdj856
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hydejack #minima
+#theme: minima
+remote_theme: taylantatli/moon
 plugins:
   - jekyll-feed
+
+plugins:
+- jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
