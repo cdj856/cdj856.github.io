@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "Numero uno post!!"
 date:   2018-03-27 21:07:54 -0500
 categories: website  updates
